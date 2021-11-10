@@ -101,7 +101,7 @@
     "table": "6.7.1",
     "terser-webpack-plugin": "5.1.4",
     "ts-loader": "8.0.17",
-    "typescript": "4.2.2",
+    "typescript": "4.4.4",
     "url-loader": "4.1.1",
     "vue": "3.1.5",
     "vue-loader": "16.3.1",
