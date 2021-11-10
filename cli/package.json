@@ -61,7 +61,7 @@
     "minimatch": "3.0.4",
     "minimist": "1.2.5",
     "multimatch": "5.0.0",
-    "open": "7.0.4",
+    "open": "7.4.2",
     "ora": "5.4.0",
     "read-metadata": "1.0.0",
     "rimraf": "3.0.2",
