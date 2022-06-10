@@ -57,7 +57,7 @@
     "handlebars": "4.7.7",
     "http-proxy-middleware": "2.0.0",
     "inquirer": "8.1.0",
-    "metalsmith": "2.3.0",
+    "metalsmith": "2.5.0",
     "minimatch": "3.0.4",
     "minimist": "1.2.5",
     "multimatch": "5.0.0",
