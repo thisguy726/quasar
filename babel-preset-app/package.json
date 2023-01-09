@@ -24,7 +24,7 @@
     "@babel/runtime": "^7.9.0",
     "babel-loader": "^8.0.6",
     "babel-plugin-dynamic-import-node": "^2.3.0",
-    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-plugin-module-resolver": "^5.0.0",
     "core-js": "^3.6.5",
     "core-js-compat": "^3.6.5"
   },
