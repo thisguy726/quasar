@@ -68,7 +68,7 @@
     "dot-prop": "6.0.1",
     "elementtree": "0.1.7",
     "error-stack-parser": "2.0.6",
-    "express": "4.17.1",
+    "express": "4.21.1",
     "fast-glob": "3.2.7",
     "file-loader": "6.2.0",
     "fork-ts-checker-webpack-plugin": "6.1.0",
